@@ -1,0 +1,10 @@
+include setup.py
+include MANIFEST.in
+include README.rst
+
+recursive-include cython_example *.py
+recursive-include cython_example *.pyd
+recursive-include cython_example *.pxd
+recursive-include cython_example *.c
+recursive-include cython_example *.h
+exclude cython_example/*/*.c

@@ -1,0 +1,7 @@
+.*
+!/.gitignore
+*.py[cod]
+*/*/*.c
+*.egg*
+build
+dist
