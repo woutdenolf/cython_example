@@ -20,3 +20,4 @@ Run tests from installation
 References
 ----------
 https://github.com/HaidStefan/Python-wrap-existing-c-code
+http://martinsosic.com/development/2016/02/08/wrapping-c-library-as-python-module.html

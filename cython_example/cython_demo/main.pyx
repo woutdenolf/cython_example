@@ -1,10 +1,10 @@
-cimport main
+#cimport main
 
 cpdef hello():
-    return main.hello()
+    return 42
 
 cpdef echo(int a):
-    return main.echo(a)
+    return a
 
 cpdef addone(int a):
     return echo(a) + 1
